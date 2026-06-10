@@ -8,7 +8,7 @@ ui.body("");
 ui.button("Skins", "textures/ui/skins");
 ui.button("Subscribe", "textures/ui/yt");
 
-// ========== Gaming Characters Menu ==========
+// ========== Skins Menu ==========
 const skins = new ActionFormData();
 skins.title("§l§4Skins Menu");
 skins.body("");

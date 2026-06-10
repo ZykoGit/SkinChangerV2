@@ -35,7 +35,6 @@ world.afterEvents.itemUse.subscribe((event) => {
             case 0:
                 skins.show(source).then((res) => {
                     if (res.canceled) return;
-                player.triggerEvent("pa:player");
                 source.runCommand("effect @s invisibility 100000 1 true");
                     switch (res.selection) {
                         case 0: 

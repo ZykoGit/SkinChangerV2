@@ -1,1 +1,35 @@
-
+ {
+    "format_version": 2,
+    "header": {
+        "description": "Hopefully it works this time T_T",
+        "name": "Skin Changer v2",
+        "uuid": "44444444-4444-4444-4444-444444444444",
+        "version": [
+            0,
+            2,
+            9
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            44
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "55555555-5555-5555-5555-555555555555",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "ZykoTheOG"
+        ]
+    }
+}
+  

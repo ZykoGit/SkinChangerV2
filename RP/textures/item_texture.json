@@ -7,6 +7,9 @@
     },
     "pack:menu": {
       "textures": "textures/items/menu"
+    },
+    "pack_skin1": {
+      "textures": "textures/items/skin1Display"
     }
   }
 }

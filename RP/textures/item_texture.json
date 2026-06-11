@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "Skin Changer v2",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "pack:display1": {
+      "textures": "textures/item/skin1Display"
+    },
+    "pack:display2": {
+      "textures": "textures/item/skin2Display"
+    },
+    "pack:display3": {
+      "textures": "textures/item/skin3Display"
+    },
+    "pack:display4": {
+      "textures": "textures/item/skin4Display"
+    }
+  }
+}

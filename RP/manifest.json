@@ -3,7 +3,7 @@
     "header": {
         "description": "Hopefully it works this time T_T",
         "name": "Skin Changer v2",
-        "uuid": "44444444-4444-4444-4444-444444444444",
+        "uuid": "55965763-7434-4125-b0ca-680a0c7ee904",
         "version": [
             0,
             2,
@@ -18,7 +18,7 @@
     "modules": [
         {
             "type": "resources",
-            "uuid": "55555555-5555-5555-5555-555555555555",
+            "uuid": "db495ee7-25a3-4780-b3e1-b73bad4e9d3c",
             "version": [
                 0,
                 0,

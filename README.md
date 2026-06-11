@@ -6,6 +6,6 @@ Delete the files in the that folder that have "texture_set" in the name, it is *
 **Step 3.**
 If you have been doing it correctly you will have just files left in that folder named skin1.png, skin2.png, etc. Replace the skins with your 6 skins. Make sure the files names are skin1.png, skin2.png, etc.
 **Step 4.**
-Select all the files inside the BP folder and turn them into a zip file, do the same for the RP folder. Then go to a converter that converters **ZIP to mcpack**
+Select all the files inside the BP folder and turn them into a zip file, do the same for the RP folder. Then go to a converter that converts **ZIP to mcpack**
 **Step 5.**
 In game once you have loaded the packs go to the helmets section in the inventory, theres your skins wear one and give yourself invisibility to see it.

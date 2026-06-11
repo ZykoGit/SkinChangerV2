@@ -13,13 +13,6 @@
             "uuid": "9446dcbe-656f-4506-9396-bfd92d803537",
             "version": [0, 0, 1],
             "module_name": "zyko"
-        },
-        {
-            "type": "script",
-            "language": "javascript",
-            "uuid": "221c66a9-173e-4f03-ab6a-fed7dd1af1f7",
-            "version": [0, 0, 1],
-            "entry": "scripts/main.js"
         }
     ],
     "dependencies": [
@@ -37,7 +30,6 @@
             "version": "1.3.0"
         }
     ],
-    "capabilities": [ "script_eval" ],
     "metadata": {
         "authors": [
             "ZykoTheOG"

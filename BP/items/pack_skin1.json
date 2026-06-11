@@ -67,8 +67,7 @@
         "repair_items": [
           {
             "items": [
-              "minecraft:emerald",
-              "pa:hat1"
+              "minecraft:emerald"
             ],
             "repair_amount": 10
           }
@@ -78,7 +77,7 @@
         "protection": 7
       },
       "minecraft:display_name": {
-        "value": "Â§Skin1"
+        "value": "§aSkin1"
       }
     }
   }

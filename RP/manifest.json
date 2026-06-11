@@ -26,6 +26,11 @@
             ]
         }
     ],
+    "dependencies": [
+     {
+      "uuid": "05e09af0-5030-41ad-b339-641d4f3eb9a1"
+     }
+    ],
     "metadata": {
         "authors": [
             "ZykoTheOG"

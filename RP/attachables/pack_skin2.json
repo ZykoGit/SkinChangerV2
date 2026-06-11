@@ -4,12 +4,10 @@
     "description": {
       "identifier": "pack:skin2",
       "materials": {
-        "default": "armor",
-        "enchanted": "armor_enchanted"
+        "default": "entity_emissive_alpha"
       },
       "textures": {
-        "default": "textures/entity/skin2",
-        "enchanted": "textures/misc/enchanted_item_glint"
+        "default": "textures/entity/skin2"
       },
       "geometry": {
         "default": "geometry.playergeo"

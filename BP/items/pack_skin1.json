@@ -1,25 +1,85 @@
 {
-  "format_version": "1.8.0",
-  "minecraft:attachable": {
+  "format_version": "1.21.10",
+  "minecraft:item": {
     "description": {
       "identifier": "pack:skin1",
-      "materials": {
-        "default": "armor",
-        "enchanted": "armor_enchanted"
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.helmet"
+      }
+    },
+    "components": {
+      "minecraft:icon": "pack_skin1",
+      "minecraft:max_stack_size": 1,
+      "minecraft:enchantable": {
+        "value": 10,
+        "slot": "armor_head"
       },
-      "textures": {
-        "default": "textures/entity/skin1",
-        "enchanted": "textures/misc/enchanted_item_glint"
+      "minecraft:durability": {
+        "max_durability": 200,
+        "damage_chance": {
+          "min": 60,
+          "max": 100
+        }
       },
-      "geometry": {
-        "default": "geometry.playergeo"
+      "minecraft:knockback_resistance": {
+        "protection": 0.75
       },
-      "scripts": {
-        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+      "minecraft:mining_speed": 5,
+      "minecraft:wearable": {
+        "slot": "slot.armor.head"
       },
-      "render_controllers": [
-        "controller.render.armor"
-      ]
+      "minecraft:render_offsets": {
+        "main_hand": {
+          "third_person": {
+            "scale": [
+              0.003125,
+              0.003125,
+              0.003125
+            ]
+          },
+          "first_person": {
+            "scale": [
+              0.0011874999999992876,
+              0.0011874999999992876,
+              0.0011874999999992876
+            ]
+          }
+        },
+        "off_hand": {
+          "third_person": {
+            "scale": [
+              0.003125,
+              0.003125,
+              0.003125
+            ]
+          },
+          "first_person": {
+            "scale": [
+              0.0011874999999992876,
+              0.0011874999999992876,
+              0.0011874999999992876
+            ]
+          }
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:emerald",
+              "pa:hat1"
+            ],
+            "repair_amount": 10
+          }
+        ]
+      },
+      "minecraft:armor": {
+        "protection": 7
+      },
+      "minecraft:display_name": {
+        "value": "Â§Skin1"
+      }
     }
   }
 }

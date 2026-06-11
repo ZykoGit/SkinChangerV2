@@ -3,16 +3,16 @@
   "texture_name": "atlas.items",
   "texture_data": {
     "pack:display1": {
-      "textures": "textures/item/skin1Display"
+      "textures": "textures/item/skin1Item"
     },
     "pack:display2": {
-      "textures": "textures/item/skin2Display"
+      "textures": "textures/item/skin2Item"
     },
     "pack:display3": {
-      "textures": "textures/item/skin3Display"
+      "textures": "textures/item/skin3Item"
     },
     "pack:display4": {
-      "textures": "textures/item/skin4Display"
+      "textures": "textures/item/skin4Item"
     }
   }
 }

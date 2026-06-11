@@ -2,12 +2,12 @@
   "format_version": "1.8.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "pack:skin4",
+      "identifier": "pack:skin5",
       "materials": {
         "default": "entity_emissive_alpha"
       },
       "textures": {
-        "default": "textures/entity/skin4"
+        "default": "textures/entity/skin5"
       },
       "geometry": {
         "default": "geometry.playergeo"

@@ -4,11 +4,7 @@
         "description": "Hopefully it works this time T_T",
         "name": "Skin Changer v2",
         "uuid": "55965763-7434-4125-b0ca-680a0c7ee904",
-        "version": [
-            0,
-            2,
-            9
-        ],
+        "version": [0,2,9],
         "min_engine_version": [
             1,
             21,
